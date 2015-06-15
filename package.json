@@ -12,6 +12,6 @@
   "author": "jiajun ma <leohihimax@gmail.com>",
   "license": "ISC",
   "bin": {
-    "get-issue": "./index.js"
+    "publish-helper": "./index.js"
   }
 }
