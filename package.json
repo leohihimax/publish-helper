@@ -1,0 +1,17 @@
+{
+  "name": "publish-helper",
+  "version": "0.0.1",
+  "description": "a tool to help publish the product",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gitlab"
+  ],
+  "author": "jiajun ma <leohihimax@gmail.com>",
+  "license": "ISC",
+  "bin": {
+    "get-issue": "./index.js"
+  }
+}
