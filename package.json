@@ -1,6 +1,6 @@
 {
   "name": "publish-helper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a tool to help publish the product",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "gitlab"
   ],
   "author": "jiajun ma <leohihimax@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bin": {
     "publish-helper": "./index.js"
   }
